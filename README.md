@@ -10,3 +10,7 @@
  
 
 <a href='https://www.youtube.com/watch?v=Rk2T329JyQI'>教程<a/>
+
+
+
+<a href='https://github.com/kotlin711/tg_cq'>炒群软件<a/>
